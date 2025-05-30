@@ -5,7 +5,7 @@ A modern, responsive invoice template designed with Apple's design principles in
 ## 🌟 Features
 
 ### Design & UI
-- **Apple-inspired Design**: Clean, minimalist interface with SF Pro Display font
+- **Design**: Clean, minimalist interface with SF Pro Display font
 - **Dark Mode by Default**: Professional dark theme with light mode toggle
 - **Responsive Layout**: Works perfectly on desktop, tablet, and mobile devices
 - **Smooth Animations**: Subtle fade-in animations and hover effects
@@ -77,17 +77,6 @@ project-folder/
 
 ## 🎨 Customization
 
-## Colors
-The template uses CSS custom properties for easy theming:
-
-```css
-:root {
---accent: #0071e3;        /* Primary blue */
---background: #000000;    /* Dark background */
---surface: #1d1d1f;      /* Card background */
---primary: #f5f5f7;      /* Text color */
---secondary: #a1a1a6;    /* Secondary text */
-}
 
 ### Fonts
 
