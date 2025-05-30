@@ -77,7 +77,7 @@ project-folder/
 
 ## 🎨 Customization
 
-### Colors
+## Colors
 The template uses CSS custom properties for easy theming:
 
 ```css
